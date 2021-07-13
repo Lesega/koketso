@@ -7,6 +7,8 @@ export default function App() {
        <div class="print-area">
            <div class="header">
             <div class="header-text">
+              <img src="IMG_20210228_170331.jpg">
+                </img>
             <h1> Innocentia Koketso Maelane</h1>
             <p>Software developer</p>
            </div>
